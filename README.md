@@ -21,7 +21,8 @@ for y in ${year}; do for doy in ${dlist}; do for h in 00 01 02 03 04 05 06 07 08
 python3 check-date-time-missing.py
 ```
 
-5. Config yaml for MODIS ZARR dataset generation
+5. Config yaml for MODIS and VIIRS ZARR datasets generation
 ```bash
 modis-1h-v3.yaml
+viirs-1h-v1-yaml
 ```
