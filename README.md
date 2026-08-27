@@ -22,4 +22,6 @@ python3 check-date-time-missing.py
 ```
 
 5. Config yaml for MODIS ZARR dataset generation
+```bash
 modis-1h-v3.yaml
+```
